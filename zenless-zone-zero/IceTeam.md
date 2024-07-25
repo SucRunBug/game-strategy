@@ -32,7 +32,7 @@ The general attack is given priority to full, dodge second, but also needs to be
 
 普攻优先拉满，闪避次之但也需要拉，其余也都拉满，格挡后点。
 
-#### 影画
+#### Cinema 影画
 
 One life plus the number of critical strikes and ice enchantment, two lives change the moves, and the general attack automatically connects to the second section E, and E can increase the damage by 60% according to the number of ice enchantment (up to three points).
 
@@ -165,3 +165,7 @@ Cangjiao plays a colored strip - Cangjiao shows the flag together to break the h
 附魔 enchantment
 
 普通攻击 general attack
+
+Flash Freeze Trimming
+
+Flash Freeze Charge
