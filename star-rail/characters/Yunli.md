@@ -34,7 +34,7 @@ https://www.bilibili.com/video/BV1mf421q72d
 
 外圈更推荐勇烈套，大公也能用，但我有多的莳者，词条都不错的，就懒得再刷了。加生命的，都不一定再连个玲可了。
 
-![alt text](<截屏2024-08-06 10.58.18.png>)
+![alt text](<./src/截屏2024-08-06 10.58.18.png>)
 
 内圈奔狼没有太亮眼的表现，更推荐停转。
 
@@ -62,10 +62,10 @@ https://www.bilibili.com/video/BV1mf421q72d
 
 五星如下：
 
-![alt text](image.png)
+![alt text](./src/image.png)
 
 四星只推荐“在蓝天下”
 
 ## 天赋加点
 
-![alt text](image-1.png)
+![alt text](./src/image-1.png)
