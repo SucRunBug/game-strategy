@@ -1,12 +1,16 @@
 # FireTeam
 
-## 一号位
+## First Position 一号位
 
-### 11号
+### Soldier 11 (11号)
 
-#### 技巧
+#### Techniques 技巧
 
-普攻招式快结束时再按平A，可以触发火附魔。
+Pushing Normal attack when the Normal attack almost finished, which can trigger fire entanchment. (Unknown, need to learn detailed mechanism)
+
+普攻招式快结束时再按平A，可以触发火附魔。(存疑，待了解详细机制)
+
+There need another fire attribute character in team at least, which can add fire damage.
 
 队伍中至少有另一个火属性角色，可以增加火伤。
 
