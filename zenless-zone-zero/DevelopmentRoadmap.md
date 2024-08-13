@@ -105,3 +105,11 @@ The electric team will become very strong after version 1.1, with Alexandrina Se
 Farming dungeons at level 45.
 
 45级再刷。	 
+
+## 45级-50级
+
+45-48刷驱动盘，50之前累积升级材料。
+
+## 50级后
+
+优先武器、等级和技能，其次是驱动盘。
